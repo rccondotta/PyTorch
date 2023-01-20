@@ -1,5 +1,8 @@
 # This is a repository for PyTorch project walkthroughs
 
+# Core
+Outlines Core Concepts in PyTorch such as fundamentals, classification, and computer vision.
+
 # Resources
 Resources that helped me understand concepts better.
 
